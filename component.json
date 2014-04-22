@@ -1,7 +1,7 @@
 {
 	"name": "angularjs",
 	"description": "AngularJS",
-	"scripts": ["dist/angular.js"],
+	"scripts": ["dist/angular.js", "index.js"],
 	"version": "1.2.16",
 	"main": "index.js"
 }
