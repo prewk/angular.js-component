@@ -1,1 +1,1 @@
-require('dist/angular.js');
+require('./dist/angular.js');
